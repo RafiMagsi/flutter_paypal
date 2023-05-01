@@ -1,4 +1,4 @@
-# Flutter Paypal
+# Flutter Paypal App
 
 Sample App for connecting Paypal in Flutter.
 
