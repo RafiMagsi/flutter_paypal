@@ -1,6 +1,6 @@
-# flutter_paypal
+# Flutter Paypal
 
-A new Flutter project.
+Sample App for connecting Paypal in Flutter.
 
 ## Getting Started
 
